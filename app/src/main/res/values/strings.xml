@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">P2</string>
+    <string name="abrir">Abre</string>
+    <string name="fechar">Fecha</string>
 </resources>
