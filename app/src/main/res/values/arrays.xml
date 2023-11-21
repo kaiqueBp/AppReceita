@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="images">
+        <item>@drawable/img</item>
+        <item>@drawable/img_1</item>
+        <item>@drawable/img_2</item>
+    </array>
+
+    <string-array name="names">
+        <item>Bolo de Cenoura</item>
+        <item>Rocombole</item>
+        <item>Yakissoba</item>
+    </string-array>
+
+    <string-array name="descriptions">
+        <item>Ingredientes\n
+            Massa:\n
+            1/2 xícara (chá) de óleo\n
+            4 ovos\n
+            2 e 1/2 xícaras (chá) de farinha de trigo\n
+            3 cenouras médias raladas\n
+            2 xícaras (chá) de açúcar\n
+            1 colher (sopa) de fermento em pó\n\n
+            Cobertura:\n
+            1 colher (sopa) de manteiga\n
+            1 xícara (chá) de açúcar\n
+            3 colheres (sopa) de chocolate em pó\n
+            1 xícara (chá) de leite\n\n
+            Modo de preparo : 40min\n\n
+
+Massa\n
+1
+Em um liquidificador, adicione a cenoura, os ovos e o óleo, depois misture.\n
+
+2
+Acrescente o açúcar e bata novamente por 5 minutos.\n
+
+3
+Em uma tigela ou na batedeira, adicione a farinha de trigo e depois misture novamente.\n
+
+4
+Acrescente o fermento e misture lentamente com uma colher.\n
+
+5
+Asse em um forno preaquecido a 180° C por aproximadamente 40 minutos.\n
+
+6
+Cobertura\n
+Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depois misture.\n
+
+7
+Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo.
+        </item>
+        <item>Ingredientes\n
+            1/2 kg de carne moída.\n
+            presunto fatiado.\n
+            tempero verde.\n
+            1 pacote de sopa de cebola.\n
+            queijo fatiado.\n
+            sal a gosto.\n\n
+            Modo de preparo : 15min\n\n
+            1 Tempere a carne moída com a sopa de cebola, o tempero verde e o sal.\n
+
+2
+Coloque a carne temperada sobre uma folha de papel laminado ou papel manteiga e abra a massa com um rolo, na espessura de 1 cm, mais ou menos.\n
+
+3
+Forre a carne com o presunto e o queijo, pode-se colocar também milho verde, ervilha e requeijão.\n
+
+4
+Enrole a carne, com ajuda da folha de papel laminado ou manteiga, em forma de rocambole.\n
+
+5
+Leve ao forno, em temperatura alta, por mais ou menos 30 minutos, ou no microondas por 15 minutos.\n
+
+        </item>
+        <item>Ingredientes\n
+            300 g de espaguete.\n
+            1 colher (sopa) de óleo.\n
+            1/2 maço pequeno de couve-flor.\n
+            400 g de carne cortada em tiras.\n
+            1 cenoura cortada em rodelas.\n
+            1 colher (sopa) de amido de milho, dissolvido em 50 ml de água.\n
+            1 cebola grande cortada em pedaços médios.\n
+            1/2 maço pequeno de brócolis.\n
+            10 colheres (sopa) de molho shoyu.\n
+            100 g de champignon.\n
+            250 ml de água.\n
+            acelga a gosto.\n\n
+            Modo de preparo : 40min\n\n
+            1Cozinhe o macarrão em ponto al dente e reserve.\n
+
+2
+Em uma panela, adicione o azeite, a cebola, a carne e refogue bem.\n
+
+3
+Adicione o molho shoyu e cozinhe por 3 minutos em fogo médio.\n
+
+4
+Acrescente mais água, aguarde levantar fervura e adicione o amido de milho.\n
+
+5
+Mexa até engrossar, abaixe o fogo e adicione o champignon, a couve-flor, o brócolis e a cenoura.\n
+
+6
+Cozinhe por 8 minutos e acrescente, por último, a acelga e o macarrão.\n
+
+7
+Misture bem, acerte o sal e tampe a panela por mais 1 minuto.\n
+
+8
+Está pronto para servir!\n
+      </item>
+    </string-array>
+
+
+</resources>
