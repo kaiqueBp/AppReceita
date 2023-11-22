@@ -1,4 +1,4 @@
-package com.kaique.p2;
+package com.kaique.p2.vm;
 
 import android.content.Context;
 import android.content.res.Resources;
@@ -14,6 +14,7 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.kaique.p2.R;
 import com.kaique.p2.model.Caracter;
 
 public class CaracterList extends Fragment {

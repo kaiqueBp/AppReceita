@@ -4,7 +4,12 @@
 
 
     <item
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="Pp"
+        android:title="Perfil" />
+    <item
         android:id="@+id/menu_licao"
         android:onClick="Deslogar"
-        android:title="Deslogar" />
+        android:title="Sair" />
 </menu>

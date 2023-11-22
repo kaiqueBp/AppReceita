@@ -1,4 +1,4 @@
-package com.kaique.p2;
+package com.kaique.p2.view;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
@@ -12,8 +12,10 @@ import android.view.MenuItem;
 import com.google.android.material.navigation.NavigationView;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.firestore.FirebaseFirestore;
+import com.kaique.p2.R;
 import com.kaique.p2.model.Caracter;
-import com.kaique.p2.view.LoginActivity2;
+import com.kaique.p2.vm.CaracterDetalhes;
+import com.kaique.p2.vm.CaracterList;
 
 public class MainActivity extends AppCompatActivity implements CaracterList.OnListSelected {
     DrawerLayout drawerLayout;
@@ -63,6 +65,10 @@ public class MainActivity extends AppCompatActivity implements CaracterList.OnLi
         if(toggle.onOptionsItemSelected(item))
             return true;
         return super.onOptionsItemSelected(item);
+    }
+    public void Pp(MenuItem item) {
+        Intent intent= new Intent(MainActivity.this, PerfilActivity.class);
+        startActivity(intent);
     }
     public void Deslogar(MenuItem item) {
         FirebaseAuth.getInstance().signOut();

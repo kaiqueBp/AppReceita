@@ -20,9 +20,7 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 import com.google.firebase.database.DatabaseReference;
-import com.kaique.p2.MainActivity;
 import com.kaique.p2.R;
-import com.kaique.p2.view.CadastroActivity2;
 
 public class LoginActivity2 extends AppCompatActivity {
     private TextView cadastar;
