@@ -9,6 +9,8 @@ import android.widget.TextView;
 
 import androidx.fragment.app.Fragment;
 
+import com.kaique.p2.model.Caracter;
+
 public class CaracterDetalhes extends Fragment {
 
     public static CaracterDetalhes newInstance() {

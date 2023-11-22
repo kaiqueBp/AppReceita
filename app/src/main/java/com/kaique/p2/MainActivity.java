@@ -5,46 +5,44 @@ import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.drawerlayout.widget.DrawerLayout;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.FrameLayout;
-import android.widget.ImageView;
 
-import com.google.android.material.floatingactionbutton.FloatingActionButton;
 import com.google.android.material.navigation.NavigationView;
+import com.google.firebase.auth.FirebaseAuth;
+import com.google.firebase.firestore.FirebaseFirestore;
+import com.kaique.p2.model.Caracter;
+import com.kaique.p2.view.LoginActivity2;
 
 public class MainActivity extends AppCompatActivity implements CaracterList.OnListSelected {
-
     DrawerLayout drawerLayout;
     ActionBarDrawerToggle toggle;
     NavigationView navigationView;
+    FirebaseFirestore db = FirebaseFirestore.getInstance();
+    String usuarioId;
+
+
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        drawerLayout=findViewById(R.id.container_root);
+        drawerLayout=findViewById(R.id.idDrawer);
         navigationView= findViewById(R.id.navView);
-
         toggle= new ActionBarDrawerToggle(this,drawerLayout,R.string.fechar,R.string.abrir);
         drawerLayout.addDrawerListener(toggle);
         toggle.syncState();
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
+
         if (savedInstanceState == null) {
             getSupportFragmentManager()
                     .beginTransaction()
-                    .add(R.id.container_root, new CaracterList(), "characterList")
+                    .add(R.id.Frame, new CaracterList(), "characterList")
                     .commit();
         }
-    }
-    @Override
-    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
-        if(toggle.onOptionsItemSelected(item))
-            return true;
-        return super.onOptionsItemSelected(item);
     }
 
     @Override
@@ -57,8 +55,20 @@ public class MainActivity extends AppCompatActivity implements CaracterList.OnLi
 
         getSupportFragmentManager()
                 .beginTransaction()
-                .replace(R.id.container_root, fragment, "fragmentDetail")
+                .replace(R.id.Frame, fragment, "fragmentDetail")
                 .addToBackStack(null)
                 .commit();
     }
+    public boolean onOptionsItemSelected(@NonNull MenuItem item) {
+        if(toggle.onOptionsItemSelected(item))
+            return true;
+        return super.onOptionsItemSelected(item);
+    }
+    public void Deslogar(MenuItem item) {
+        FirebaseAuth.getInstance().signOut();
+        Intent intent= new Intent(MainActivity.this, LoginActivity2.class);
+        startActivity(intent);
+        finish();
+    }
+
 }

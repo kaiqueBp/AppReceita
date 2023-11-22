@@ -1,4 +1,4 @@
-package com.kaique.p2;
+package com.kaique.p2.model;
 
 import java.io.Serializable;
 

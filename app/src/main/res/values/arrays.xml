@@ -5,16 +5,34 @@
         <item>@drawable/img</item>
         <item>@drawable/img_1</item>
         <item>@drawable/img_2</item>
+        <item>@drawable/img_3</item>
+        <item>@drawable/img_5</item>
+        <item>@drawable/img_6</item>
+        <item>@drawable/img_7</item>
+        <item>@drawable/img_8</item>
+        <item>@drawable/img_9</item>
+        <item>@drawable/img_10</item>
+        <item>@drawable/img_11</item>
+        <item>@drawable/img_12</item>
     </array>
 
     <string-array name="names">
         <item>Bolo de Cenoura</item>
         <item>Rocombole</item>
         <item>Yakissoba</item>
+        <item>Fricassê de frango</item>
+        <item>Panqueca americana</item>
+        <item>Petit gateau</item>
+        <item>Picanha ao Forno com Sal Grosso</item>
+        <item>Torta de limão</item>
+        <item>Churros</item>
+        <item>Beijinho</item>
+        <item>Quibe</item>
+        <item>Cappuccino</item>
     </string-array>
 
     <string-array name="descriptions">
-        <item>Ingredientes\n
+        <item>Ingredientes\n\n
             Massa:\n
             1/2 xícara (chá) de óleo\n
             4 ovos\n
@@ -52,7 +70,7 @@ Despeje em uma tigela a manteiga, o chocolate em pó, o açúcar e o leite, depo
 7
 Leve a mistura ao fogo e continue misturando até obter uma consistência cremosa, depois despeje a calda por cima do bolo.
         </item>
-        <item>Ingredientes\n
+        <item>Ingredientes\n\n
             1/2 kg de carne moída.\n
             presunto fatiado.\n
             tempero verde.\n
@@ -75,7 +93,7 @@ Enrole a carne, com ajuda da folha de papel laminado ou manteiga, em forma de ro
 Leve ao forno, em temperatura alta, por mais ou menos 30 minutos, ou no microondas por 15 minutos.\n
 
         </item>
-        <item>Ingredientes\n
+        <item>Ingredientes\n\n
             300 g de espaguete.\n
             1 colher (sopa) de óleo.\n
             1/2 maço pequeno de couve-flor.\n
@@ -112,6 +130,259 @@ Misture bem, acerte o sal e tampe a panela por mais 1 minuto.\n
 8
 Está pronto para servir!\n
       </item>
+        <item>Ingredientes:\n\n
+            1 lata de creme de leite.\n
+            1 lata de milho verde.\n
+            1 copo de requeijão cremoso.\n
+            100 g de azeitona sem caroço.\n
+            2 peitos de frango desfiados.\n
+            200 g de mussarela fatiada.\n
+            100 g de batata palha.\n
+            1 xícara de água.\n
+            1 pitada de sal.\n\n
+
+            Modo de preparo : 30 min\n\n
+            1 Bata no liquidificador o milho, o requeijão, o creme de leite e a água.\n
+            2  Refogue o creme do liquidificador com o frango desfiado, as azeitonas e o sal até ficar com uma textura espessa.\n
+            3  Coloque o refogado numa assadeira, cubra com mussarela e espalhe a batata palha por cima.\n
+            4  Leve ao forno até borbulhar.\n
+            5  Sirva com arroz branco.\n
+        </item>
+        <item>Ingredientes:\n\n
+              1 e 1/4 xícara (chá) de farinha de trigo.\n
+
+              1 colher (sopa) de açúcar.\n
+
+              3 colheres (chá) de fermento em pó.\n
+
+              2 ovos levemente batidos.\n
+
+              1 xícara (chá) de leite.\n
+
+              2 colheres (sopa) de manteiga derretida.\n
+
+              pitada de sal.\n
+
+              óleo.\n\n
+            Modo de preparo : 40min\n\n
+            1 Misture em um recipiente: a farinha, o açúcar, o fermento e o sal.\n
+
+            2 Em outro recipiente, misture os ovos, o leite e a manteiga.\n
+
+            3 Acrescente os líquidos aos secos, sem misturar em excesso.\n
+
+            4 O ponto da massa não deve ser muito líquido, deve escorrer lentamente.\n
+
+            5 Aqueça e unte a frigideira com óleo, coloque a massa no centro, cerca de 1/4 xícara por panqueca.\n
+
+            6 Vire a massa para assar do outro lado e está pronto!\n
+        </item>
+        <item>Ingredientes:\n\n
+              200 g de chocolate meio amargo.\n
+
+              2 colheres de manteiga sem sal.\n
+
+              1/4 xícara (chá) de açúcar.\n
+
+              2 colheres (sopa) rasas de farinha de trigo.\n
+
+              2 ovos inteiros (tire a pele da gema).\n
+
+              2 gemas.\n\n
+
+             Modo de preparo : 30min\n\n
+             1 Derreta a manteiga e o chocolate em banho-maria.\n
+
+            2 Bata os ovos e as gemas com açúcar na batedeira, até ficar bem claro.\n
+
+            3 Junte o chocolate derretido e a farinha de trigo, misturando com uma espátula.\n
+
+            4 Depois, unte as forminhas de empadinha, passe farinha de trigo e coloque a massa.\n
+
+            5 Preaqueça o forno e leve para assar de 6 a 10 minutos (em fogo alto) até os bolinhos crescerem, mas o meio deve ficar molinho.\n
+
+            6 Deve-se desenformar ainda quente.\n
+
+            7 Sirva diretamente no prato, acompanhado com sorvete de creme.\n
+        </item>
+        <item>Ingredientes:\n\n
+            1 peça de Picanha com aproximadamente 1 Kg.\n
+
+            3 kg de sal grosso.\n\n
+            Molho:\n\n
+            4 colheres de sopa de manteiga.\n
+
+            4 colheres de sopa de azeite.\n
+
+            1 cebola (picada).\n\n
+
+            Modo de preparo : 2h\n\n
+
+            1 Cubra o fundo de uma assadeira com 1 kg do sal grosso.\n
+
+            2 Coloque a picanha com a parte da gordura virada para cima. Dica: a picanha pode ser colocada para assar congelada.\n
+
+            3 Cubra a carne com o restante do sal, não deixando nenhuma parte da carne exposta.\n
+
+            4 Leve a assadeira para o forno a 200 graus.\n
+
+            5 Retire a camada do sal e corte em fatias.\n
+
+            6 Aqueça a manteiga junto com o azeite em uma frigideira, frite a cebola por alguns instantes e derrame sobre a picanha preparada.\n
+        </item>
+        <item>Ingredientes:\n\n
+            Massa:\n
+            200 g de biscoito de maisena.\n\n
+
+            150 g de margarina.\n\n
+
+            Recheio:\n
+            1 lata de leite condensado (395 g).\n\n
+
+            1 caixa de creme de leite (200 g).\n\n
+
+            suco de 4 limões.\n\n
+
+            raspas de 2 limões.\n\n
+
+            Cobertura:\n
+            3 ou 4 claras de ovo.\n
+
+            3 colheres (sopa) de açúcar.\n
+
+            raspas de 2 limões para decorar.\n\n
+
+            Modo de preparo : 50min\n\n
+            1 Massa:\n
+Triture o biscoito de maisena em um liquidificador ou processador.\n
+
+2 Junte a margarina e bata mais um pouco.\n
+
+3 Despeje a massa em uma forma de fundo removível (27 cm de diâmetro).\n
+
+4 Com as mãos, espalhe os biscoitos triturados no fundo e nas laterais da forma, cobrindo toda área de maneira uniforme.\n
+
+5 Leve ao forno médio (180° C), preaquecido, por aproximadamente 10 minutos.\n\n
+
+6 Recheio:\n
+Bata todos os ingredientes no liquidificador (exceto as raspas de limão) até obter um creme liso e firme.\n
+
+7 Recheie a massa já assada e leve à geladeira por 30 minutos.\n\n
+
+8 Cobertura:\n
+Bata as claras em neve e acrescente o açúcar.\n
+
+9 Misture até obter um ponto de suspiro e leve ao forno até dourar.\n
+
+10 Desenforme a torta (sem retirar o fundo falso), despeje a cobertura e acrescente as raspas de limão.\n
+        </item>
+        <item>Ingredientes:\n\n
+            1 e 1/2 xícara (chá) de leite.\n
+
+1/2 xícara (chá) de água.\n
+
+2 colheres (sopa) de margarina ou manteiga.\n
+
+2 xícaras (chá) de farinha de trigo.\n
+
+sal a gosto.\n
+
+açúcar a gosto.\n
+
+canela a gosto.\n\n
+            Modo de preparo : 20min\n\n
+
+           1 Em uma panela, adicione o leite, a água, a manteiga e o sal.\n
+
+2 Quando o leite ferver, adicione a farinha de trigo e mexa rápido até a massa soltar do fundo da panela.\n
+
+3 Coloque a massa em um saco de confeiteiro com o bico pitanga, depois faça tirinhas com a massa e frite.\n
+
+4 Misture a canela e o açúcar, depois passe nos churros fritos.\n
+
+        </item>
+        <item>Ingredientes:\n\n
+            2 latas de leite condensado.\n
+
+2 colheres (sopa) de manteiga.\n
+
+300 g de coco fresco ralado (fino).\n
+
+açúcar cristal.\n
+
+cravos-da-índia a gosto.\n\n
+
+            Modo de preparo : 20min\n\n
+
+            1 Numa panela, misture o leite condensado, a manteiga e o coco ralado.\n
+
+2 Leve ao fogo e misture por aproximadamente 15 minutos.\n
+
+3 Retire a mistura do fogo e deixe amornar.\n
+
+4 Modele a massa em formato de bolinhas, passe pelo açúcar cristal ou coco ralado e finalize com cravos-da-índia.\n
+
+        </item>
+        <item>Ingredientes:\n\n
+            500 g de trigo para kibe.\n
+500 g de carne moída (patinho de preferência).\n
+
+750 ml de água fervendo.\n
+2 cebolas ralada ou bem picadinha.\n
+
+hortelã, pimenta-de-cheiro e sal a gosto.\n\n
+
+            Modo de preparo : 1h\n\n
+            1 Coloque o trigo em uma forma de bolo, para espalhar bem.\n
+
+2 Despeje a água fervendo e deixe tampado com um pano de prato por 40 minutos, (a quantidade de água tem quer ser essa, por que não precisa escorrer).\n
+
+3 Coloque a carne moída os temperos o sal e misture bem.\n
+
+4 Enrole no formato de quibe, frite em óleo quente ou asse no forno recheando com catupiry - fica uma delícia.\n
+
+        </item>
+        <item>Ingredientes:\n\n
+            400 g de leite em pó integral.\n
+
+230 g de açúcar.\n
+
+50 g de café solúvel.\n
+
+5 colheres (sopa) de chocolate em pó.\n
+
+1 colher (sopa) bicarbonato de sódio.\n
+
+1 colher (chá) de canela em pó.\n\n
+
+            Modo de preparo : 15min\n\n
+
+           1 Montagem:\n
+Misture no liquidificador o leite em pó e o café solúvel (para triturar o café).\n
+
+2
+Coloque a mistura em um recipiente com tampa e acrescente os outros ingredientes.\n
+
+3
+Agite vigorosamente o recipiente até que a mistura esteja homogênea.\n\n
+
+4
+Preparo:\n
+Ferva 180 ml de água.\n
+
+5
+Coloque a água em um copo alto (vai dobrar de volume).\n
+
+6
+Acrescente 3 colheres (sopa) bem cheias de capuccino e misture bem até ficar cremoso.\n
+
+7
+Pronto!\n
+
+8
+A dica é colocar por cima chantili e cobertura de chocolate.\n
+
+        </item>
     </string-array>
 
 

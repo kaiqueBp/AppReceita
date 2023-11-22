@@ -14,6 +14,8 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
+import com.kaique.p2.model.Caracter;
+
 public class CaracterList extends Fragment {
     private OnListSelected listener;
     private String[] names;
